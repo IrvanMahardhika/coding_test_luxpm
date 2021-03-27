@@ -38,6 +38,7 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "path": "^0.12.7",
+    "python-shell": "^2.0.3",
     "react-circular-progressbar": "^2.0.3",
     "react-dropzone": "^11.0.3",
     "sequelize": "^6.3.5",
